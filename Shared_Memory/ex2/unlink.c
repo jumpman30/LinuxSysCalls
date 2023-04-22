@@ -11,6 +11,6 @@
 #include <stdbool.h>
 
 int main(){
-    shm_unlink("/ex2");
+    shm_unlink("/ex5");
     return 0;
 }
